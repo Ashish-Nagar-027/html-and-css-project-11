@@ -39,7 +39,7 @@
      display: block;
      margin: auto;
      /* background-color: red; */
-     width: 80vw;
+     width: 85vw;
 }
 
 /* button */
@@ -183,7 +183,7 @@ header {
 
 .second-section {
      /* background-color: red; */
-     height: 700px;
+     height: 550px;
      display: flex;
      align-items: center;
      justify-content: center;
@@ -192,7 +192,6 @@ header {
      flex: 1;
 }
 .second-section-left img{
-     float: right;
      margin-right: 2rem;
      width: 80%;
 }
@@ -216,7 +215,7 @@ header {
  */
  .third-section {
      /* background-color: red; */
-     height: 700px;
+     height: 550px;
      display: flex;
      align-items: center;
      justify-content: center;
